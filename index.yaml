@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  aux-common:
+  - apiVersion: v1
+    created: "2022-03-17T10:48:18.072963183Z"
+    description: Common templates for inclusion in other charts
+    digest: 7409d82c3311753eaef77ac076745decd94f355dde486f55e3ff0a7523595bc1
+    name: aux-common
+    urls:
+    - http://127.0.0.1:8879/aux-common-3.0.0.tgz
+    version: 3.0.0
+  nonrtric-common:
+  - apiVersion: v1
+    created: "2022-03-17T10:48:18.073139566Z"
+    description: NONRTRIC Common templates for inclusion in other charts
+    digest: 85156bdf29616f1f64bb56d28c89b0fb595002005163c9b2b3454c58fcef26ba
+    name: nonrtric-common
+    urls:
+    - http://127.0.0.1:8879/nonrtric-common-2.0.0.tgz
+    version: 2.0.0
+  ric-common:
+  - apiVersion: v1
+    created: "2022-03-17T10:48:18.073635644Z"
+    description: Common templates for inclusion in other charts
+    digest: 9f5938770e172f565addd3c20de08ffd0c06fe3513b8e338def789d0b3a82e61
+    name: ric-common
+    urls:
+    - http://127.0.0.1:8879/ric-common-3.3.2.tgz
+    version: 3.3.2
+generated: "2022-03-17T10:48:18.072479582Z"
